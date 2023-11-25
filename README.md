@@ -1,1 +1,1 @@
-# SEPK_hack-change_frontend
+# Фронтенд команды SEPK хакатона Hack&Change.
